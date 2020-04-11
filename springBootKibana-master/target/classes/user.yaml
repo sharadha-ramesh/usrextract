@@ -1,0 +1,17 @@
+userList:
+   - name: test
+     userId: 1
+     address:
+        line1: My Address Line 1
+        line2: Address line 2
+        city: Washington D.C.
+        zip: 2000
+     roles: user
+   - name: siva
+     userId: 2
+     address:
+       line1: My Address Line 1
+       line2: Address line 2
+       city: Washington D.C.
+       zip: 20000
+     roles: aaaa
